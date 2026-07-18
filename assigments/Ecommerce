@@ -5,7 +5,7 @@ public class StudentMarksFixed {
             int bonusMarks = 10;
             int total = marks + bonusMarks;
 
-            System.out.println("Total Marks: " + total);
+            System.out.println("Total Marks: " + total);git remote add origin https://github.com/2511cs030488-cpu/java-fsdl.git
         } catch (NumberFormatException e) {
             System.out.println("Invalid marks entered. Please enter a number.");
             System.out.println("Using default marks: 50");
