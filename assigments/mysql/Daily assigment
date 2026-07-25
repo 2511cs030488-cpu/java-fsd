@@ -1,5 +1,4 @@
 
-
 mysql> CREATE DATABASE NITHIN;
 ERROR 1007 (HY000): Can't create database 'NITHIN'; database exists
 mysql>
